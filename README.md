@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm just a university student majoring in InfoTech, dabbling in TypeScript on Node.js.]
+I'm just a university student majoring in InfoTech, dabbling in TypeScript on Node.js.
 When I started university, I decided to leave my old GitHub account behind and create this brand-new one to match this new chapter in my life.
 Time for a fresh start—let's gooo!
 
