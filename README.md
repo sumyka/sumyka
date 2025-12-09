@@ -54,6 +54,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumyka&show_icons=true&theme=nord&count_private=true" alt="Sumyka's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumyka&layout=compact&theme=nord" alt="Top Langs" />
+  <img src="https://github-readme-stats-theta-two-90.vercel.app/api?username=Sumyka&show_icons=true&theme=nord&count_private=true" alt="Sumyka's GitHub stats" />
+  <img src="https://github-readme-stats-theta-two-90.vercel.app/api/top-langs/?username=Sumyka&layout=compact&theme=nord" alt="Top Langs" />
 </div>
