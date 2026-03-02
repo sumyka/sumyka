@@ -1,6 +1,6 @@
 # Hi there! I'm sumyka.
 
-**Infrastructure & Backend Enthusiast / Bachelor 1 Student**
+**Infrastructure & Backend Enthusiast / Bachelor 2 Student**
 
 千葉工業大学の学部1年生です。
 「動く」だけでなく、**堅牢かつ保守性のある**システム構築を目指し、インフラからバックエンドまでを一貫して実際に手を動かしながら学習しています。
